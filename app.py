@@ -21,7 +21,7 @@ def load_model_and_vectorizer():
 page_bg_img = """
 <style>
 .stApp {
-    background-image: url("https://boast.io/wp-content/uploads/2022/05/12-Testimonial-Guidelines-to-Ensure-Youre-Not-Breaking-the-Law.jpg.webp");
+    background-image: url("https://blogapp.bitdefender.com/hotforsecurity/content/images/2024/11/How-to-Spot-and-Protect-Your-Business-from-Fake-Reviews-Red-Flags--Tips--and-Tools.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
